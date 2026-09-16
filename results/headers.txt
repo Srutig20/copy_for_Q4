@@ -1,0 +1,9 @@
+data/NC_012920.1.gb:LOCUS       NC_012920              16569 bp    DNA     circular PRI 03-APR-2023
+data/NC_012920.1.gb:DEFINITION  Homo sapiens mitochondrion, complete genome.
+data/NC_012920.1.gb:ACCESSION   NC_012920 AC_000021
+data/NM_001093771.3.gb:LOCUS       NM_001093771            3860 bp    mRNA    linear   PRI 20-NOV-2025
+data/NM_001093771.3.gb:DEFINITION  Homo sapiens thioredoxin reductase 1 (TXNRD1), transcript variant
+data/NM_001093771.3.gb:ACCESSION   NM_001093771
+data/NM_007294.4.gb:LOCUS       NM_007294               7088 bp    mRNA    linear   PRI 10-SEP-2026
+data/NM_007294.4.gb:DEFINITION  Homo sapiens BRCA1 DNA repair associated (BRCA1), transcript
+data/NM_007294.4.gb:ACCESSION   NM_007294

@@ -1,0 +1,6 @@
+data/NC_012920.1.fasta:>NC_012920.1 Homo sapiens mitochondrion, complete genome
+data/NM_001093771.3.fasta:>NM_001093771.3 Homo sapiens thioredoxin reductase 1 (TXNRD1), transcript variant 7, mRNA
+data/NM_007294.4.fasta:>NM_007294.4 Homo sapiens BRCA1 DNA repair associated (BRCA1), transcript variant 1, mRNA
+data/NP_001087240.1.fasta:>NP_001087240.1 thioredoxin reductase 1, cytoplasmic isoform 5 [Homo sapiens]
+data/NP_009225.1.fasta:>NP_009225.1 breast cancer type 1 susceptibility protein isoform 1 [Homo sapiens]
+data/YP_003024029.1.fasta:>YP_003024029.1 cytochrome c oxidase subunit II (mitochondrion) [Homo sapiens]
