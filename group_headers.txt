@@ -1,3 +1,6 @@
+mrna_NC_012920.1.fasta:>NC_012920.1 Homo sapiens mitochondrion, complete genome
+mrna_NM_001093771.3.fasta:>NM_001093771.3 Homo sapiens thioredoxin reductase 1 (TXNRD1), transcript variant 7, mRNA
+mrna_NM_007294.4.fasta:>NM_007294.4 Homo sapiens BRCA1 DNA repair associated (BRCA1), transcript variant 1, mRNA
 NC_012920.1.fasta:>NC_012920.1 Homo sapiens mitochondrion, complete genome
 NM_001093771.3.fasta:>NM_001093771.3 Homo sapiens thioredoxin reductase 1 (TXNRD1), transcript variant 7, mRNA
 NM_007294.4.fasta:>NM_007294.4 Homo sapiens BRCA1 DNA repair associated (BRCA1), transcript variant 1, mRNA
